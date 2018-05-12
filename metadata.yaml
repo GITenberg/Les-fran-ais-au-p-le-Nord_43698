@@ -1,0 +1,35 @@
+_repo: Les-fran-ais-au-p-le-Nord_43698
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Clérice, Charles
+    aliases:
+    - Clérice, Ch. (Charles)
+    - Clerice, Charles
+    gutenberg_agent_id: '42372'
+    url: http://www.gutenberg.org/2009/agents/42372
+covers:
+- cover_type: archival
+  image_path: 43698-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Boussenard, Louis
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '42371'
+    url: http://www.gutenberg.org/2009/agents/42371
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2013-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43698'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions -- Fiction'
+- !lcc 'PQ'
+title: Les français au pôle Nord
+url: http://www.gutenberg.org/ebooks/43698
